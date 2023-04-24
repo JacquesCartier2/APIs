@@ -1,0 +1,15 @@
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.pdb
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokeApi.NET.dll
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokeApi.NET.pdb
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\PokeApi.NET.xml
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.PokemonForm.resources
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.exe
+F:\School\Programming\C# Projects\APIs\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.pdb
