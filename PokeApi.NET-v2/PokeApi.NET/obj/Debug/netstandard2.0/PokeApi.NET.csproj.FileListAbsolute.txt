@@ -1,0 +1,12 @@
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\bin\Debug\netstandard2.0\PokeApi.NET.deps.json
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\bin\Debug\netstandard2.0\PokeApi.NET.dll
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\bin\Debug\netstandard2.0\PokeApi.NET.pdb
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\bin\Debug\netstandard2.0\PokeApi.NET.xml
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.csproj.AssemblyReference.cache
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.AssemblyInfoInputs.cache
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.AssemblyInfo.cs
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.csproj.CoreCompileInputs.cache
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.dll
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.xml
+F:\School\Programming\C# Projects\APIs\PokeApi.NET-v2\PokeApi.NET\obj\Debug\netstandard2.0\PokeApi.NET.pdb

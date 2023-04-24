@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXRAlKxZqz7CxS8Gp1TUF0KZII3SgmYRIFQ7KNbTGol8FNLGFuhWQrQtciWM9JhXg4pV0ZEwjFqcKdZjwTsqtQ==",
+  "success": true,
+  "projectFilePath": "F:\\School\\Programming\\C# Projects\\APIs\\PokeApi.NET-v2\\PokeApi.NET\\PokeApi.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jmmon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jmmon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jmmon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jmmon\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\Jmmon\\.nuget\\packages\\system.valuetuple\\4.3.1\\system.valuetuple.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
